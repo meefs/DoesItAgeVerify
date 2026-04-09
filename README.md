@@ -49,6 +49,7 @@ The developers or publishers of these open source Operating Systems have made st
 | - | - | - |
 | :question: | **CachyOS** | [Developer statement](https://x.com/LundukeJournal/status/2037217859739542005) |
 | :question: | **MX Linux** | [Developer statement](https://x.com/LundukeJournal/status/2038279978907758664) |
+| :question: | **Solus** | [Developer statement](https://x.com/LundukeJournal/status/2042272320127971604) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
